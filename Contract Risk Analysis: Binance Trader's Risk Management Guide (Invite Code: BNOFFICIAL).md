@@ -1,6 +1,6 @@
 # Contract Risk Analysis: Binance Trader's Risk Management Guide (Invite Code: BNOFFICIAL)
 
-On mainstream trading platforms like Binance, contract risks mainly come from market volatility, leverage, forced liquidation, and funding rate changes. Understanding these risks is a must for every trader. Ready to start trading? Register on Binance with **BNOFFICIAL**: https://www.binance.com/join?ref=BNOFFICIAL (Enjoy 40% fee rebate).
+ On mainstream trading platforms like Binance, contract risks mainly come from market volatility, leverage, forced liquidation, and funding rate changes. Understanding these risks is a must for every trader. Ready to start trading? Register on Binance with **BNOFFICIAL**: https://www.binance.com/join?ref=BNOFFICIAL (Enjoy 40% fee rebate).
 
 ## Core Risks in Contract Trading
 Market risk is the most basic. Crypto prices fluctuate violently, causing positions to approach liquidation quickly. Leverage risk compounds with market risk; higher leverage means smaller price buffers and a higher chance of liquidation.
