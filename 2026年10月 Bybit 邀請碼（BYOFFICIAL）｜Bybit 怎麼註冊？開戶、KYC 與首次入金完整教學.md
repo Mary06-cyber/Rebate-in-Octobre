@@ -1,0 +1,276 @@
+# 2026年10月 Bybit 邀請碼（BYOFFICIAL）｜Bybit 怎麼註冊？開戶、KYC 與首次入金完整教學
+
+2026 年 10 月第一次使用 Bybit，可以把完整開戶流程記成：確認 BYOFFICIAL 邀請碼 → 選擇真實居住國家／地區 → 使用 Email 或手機號碼註冊 → 完成驗證碼與密碼設定 → 進行 KYC → 設定帳戶安全 → 完成首次入金 → 將交易資金轉入 Unified Trading Account（UTA）。
+
+本文使用的 Bybit 邀請資訊如下：
+
+Bybit 邀請碼：BYOFFICIAL
+Bybit 邀請連結：
+https://partner.bybit.com/b/BYOFFICIAL
+
+使用 BYOFFICIAL 邀請連結註冊，連結自帶 33% 手續費折扣；配合 MNT 手續費抵扣後，現貨最高可享 50% 手續費折扣，合約最高可享 40% 手續費折扣。
+
+📌 2026 年 10 月 Bybit 新用戶快速整理
+- 邀請碼：BYOFFICIAL
+- 邀請連結：https://partner.bybit.com/b/BYOFFICIAL
+- 註冊方式：Email、手機號碼，也可使用平台目前支援的 Google、Apple、Telegram 等方式
+- 邀請碼填寫時間：建立帳戶以前
+- KYC：Standard、Advanced、Pro 三個個人認證等級
+- Standard：身分評估＋身分證明（POI）
+- Advanced：地址證明（POA）
+- Pro：Enhanced Due Diligence（EDD）
+- 首次入金：鏈上充值、One-Click Buy、法幣入金或 P2P
+- 鏈上充值預設到帳：Funding Account
+- 用於現貨、合約等交易：可將資金劃轉至 Unified Trading Account（UTA）
+
+## 一、2026 年 10 月 Bybit 邀請碼是多少？
+本文使用的 Bybit 邀請碼是：
+
+BYOFFICIAL
+
+對應邀請連結：
+
+https://partner.bybit.com/b/BYOFFICIAL
+
+如果還沒有建立 Bybit 帳戶，建議直接從 BYOFFICIAL 邀請連結進入註冊頁面，並在最終送出註冊以前確認推薦資訊。
+
+Bybit 目前官方註冊說明中明確提示：如果有推薦碼或代理邀請碼，應該在點擊註冊以前填寫；帳戶建立以後，不能再自行新增、修改或刪除推薦／代理邀請碼。
+
+因此邀請碼這一項最好不要等到完成 KYC、充值或交易以後才檢查。
+
+⚠️ 邀請碼最好在開戶前確認
+如果已經送出註冊，不要預設之後還能在帳戶設定裡重新輸入 BYOFFICIAL。註冊頁面確認推薦關係，會比開戶完成以後再處理簡單得多。
+
+## 二、Bybit 怎麼註冊？完整開戶流程
+進入 Bybit 註冊頁面後，第一步不是直接輸入手機號碼，而是先選擇真實的居住國家或地區。
+
+Bybit 可能根據所在地將用戶導向對應的地區網站，也可能提示部分司法管轄區受到服務限制，因此不要為了使用某項產品而填寫與實際情況不符的地區。
+
+完整流程可以按照以下順序操作：
+
+1. 開啟 BYOFFICIAL 邀請連結。
+2. 選擇真實居住國家／地區。
+3. 選擇使用 Email 或手機號碼註冊。
+4. 確認頁面中的邀請碼為 BYOFFICIAL。
+5. 點擊註冊。
+6. 完成 reCAPTCHA 人機驗證。
+7. 輸入 Email 或簡訊收到的驗證碼。
+8. 設定 Bybit 登入密碼。
+9. 完成帳戶建立。
+10. 進入帳戶中心開始 KYC。
+
+註冊連結：
+https://partner.bybit.com/b/BYOFFICIAL
+
+Bybit 目前還可能提供 Google、Apple 或 Telegram 等第三方註冊方式，但無論使用哪種方式，都建議確認自己能夠長期控制對應的 Email、手機號碼或第三方帳戶。
+
+## 三、用 Email 註冊還是手機號碼註冊比較方便？
+Email 和手機號碼都可以用來建立 Bybit 帳戶。
+
+如果長期使用，Email 註冊通常會更方便進行後續安全管理。
+
+需要注意：
+- 每個 Email 地址只能綁定一個對應帳戶；
+- 每個手機號碼也只能綁定一個對應帳戶；
+- 不要使用之後可能無法存取的臨時 Email；
+- 不要使用他人的手機號碼建立自己的交易帳戶。
+
+如果選擇手機號碼註冊，應正確選擇國際區碼，並按照註冊頁面要求填寫號碼。
+
+無論使用 Email 還是手機註冊，帳戶建立完成以後，都建議繼續完成：
+- Email 驗證；
+- Google Authenticator 或其他可用的雙重驗證；
+- Passkey 等帳戶支援的安全功能；
+- 防釣魚碼等安全設定。
+
+## 四、Bybit 新用戶一定要做 KYC 嗎？
+帳戶註冊完成以後，Bybit 會引導用戶進入身分認證頁面。想正常使用平台主要產品與服務，應該完成對應的個人身分驗證。
+
+目前 Bybit 個人 KYC 分為三個等級：
+
+### Standard
+主要包含：
+- Identity Assessment 身分評估；
+- Proof of Identity（POI）身分證明。
+完成 Standard 驗證以後，符合條件的帳戶即可開始進行充值和交易。
+
+### Advanced
+需要進一步提交：
+- Proof of Address（POA）地址證明。
+通常需要先完成 Standard，才能繼續進行 Advanced。
+
+### Pro
+Pro 等級需要完成更進一步的：
+- Enhanced Due Diligence（EDD）。
+可能涉及額外問卷、收入或相關支援文件。
+
+不同地區還可能存在額外認證要求，因此最終應以自己帳戶的 Identity Verification 頁面為準。
+
+## 五、Bybit KYC 怎麼做？需要準備什麼？
+進入 Bybit 帳戶後，可以從帳戶資料中的 Identity Verification 頁面開始驗證。
+
+Standard KYC 常見流程：
+1. 進入帳戶中心。
+2. 找到 Identity Verification。
+3. 點擊 Verify Now。
+4. 選擇目前真實居住國家／地區。
+5. 選擇證件簽發國家／地區。
+6. 選擇支援的身分證明文件類型。
+7. 拍攝或上傳證件。
+8. 完成人臉辨識。
+9. 依要求完成 Identity Assessment。
+10. 等待認證結果。
+
+上傳身分證件時應注意：
+- 證件姓名清楚可見；
+- 出生日期清楚可見；
+- 證件沒有被修改；
+- 照片清晰，沒有嚴重反光；
+- 證件邊緣和關鍵資訊完整；
+- 使用仍然有效的證件。
+
+如果需要進行 Advanced 地址證明，目前常見可接受資料包括：
+- 水電等公共事業帳單；
+- 銀行對帳單；
+- 政府核發的居住證明。
+地址證明通常還需要符合平台目前的日期有效要求，因此不要直接使用很久以前的舊帳單。
+
+⚠️ KYC 資訊必須保持真實一致
+註冊地區、本人姓名、身分證件與人臉認證不要使用他人的資訊。如果後續修改居住國家／地區或身分資料，也可能需要重新進行額外驗證。
+
+## 六、Bybit 第一次入金有哪些方式？
+完成需要的身分驗證以後，可以開始準備 USDT、BTC 或其他資產。
+
+Bybit 目前主要提供以下幾種入金方式：
+
+### 1. 鏈上加密貨幣充值
+從其他交易所或個人錢包，將 USDT、BTC、ETH 等支援的資產透過區塊鏈轉入 Bybit。
+
+### 2. One-Click Buy
+依照帳戶所在地和目前支援情況，使用平台提供的銀行卡、第三方支付或其他支援方式購買加密貨幣。
+
+### 3. 法幣入金
+部分地區帳戶可以使用平台目前提供的法幣充值方式。
+
+### 4. P2P
+如果自己的帳戶顯示可用的 P2P 市場，可以依照對應法幣、付款方式和商家完成交易。
+
+不同國家／地區的付款方式、幣種和服務資格可能不同。
+
+## 七、第一次從其他交易所充值 USDT 到 Bybit 怎麼操作？
+如果已經在其他交易所或錢包持有 USDT，鏈上充值通常是比較直接的首次入金方式。
+
+常見操作流程：
+Bybit → Assets → Deposit → 選擇 USDT → 選擇 Network → 複製充值地址
+
+然後回到發送 USDT 的平台：
+1. 進入提幣頁面。
+2. 選擇 USDT。
+3. 貼上 Bybit 充值地址。
+4. 選擇與 Bybit 完全相同的 Network。
+5. 填寫金額。
+6. 若需要 Memo 或 Tag，同時正確填寫。
+7. 再次確認地址與 Network。
+8. 完成發送。
+
+發送端選擇的 Network 必須和 Bybit 充值頁面顯示的 Network 完全一致。
+還要檢查：
+- Bybit 是否支援該幣種和鏈；
+- 最低充值金額；
+- 發送平台收取的提幣費用；
+- 充值頁面有沒有額外提示；
+- 是否需要 Memo／Tag；
+- 部分地區是否需要額外完成錢包地址或 Travel Rule 相關驗證。
+
+⚠️ 第一次鏈上充值最重要的是 Network
+不要只確認「都是 USDT」。幣種相同但鏈不同，仍可能造成資產無法正常到帳。第一次使用新的充值地址或 Network 時，可以先進行一筆符合最低充值金額要求的小額測試。
+
+## 八、為什麼 USDT 充值後不能直接交易？Funding Account 和 UTA 有什麼區別？
+Bybit 鏈上充值目前預設通常會進入：
+Funding Account
+
+Funding Account 主要用於：
+- 加密貨幣充值；
+- 提幣；
+- 部分法幣與資金管理功能。
+
+Unified Trading Account（UTA）主要用於：
+- Spot；
+- Spot Margin；
+- Perpetual；
+- Futures；
+- Options 等支援的交易產品。
+
+所以如果 USDT 已經成功到帳，但交易頁面顯示可用餘額不足，先檢查資產是不是仍在 Funding Account。
+
+需要劃轉時：
+Assets → Transfer → From Funding Account → To Unified Trading Account → 選擇 USDT → 輸入金額 → Confirm
+
+這種操作只是 Bybit 帳戶內部資產劃轉，不是鏈上提幣。
+Bybit 也支援用戶調整 Deposit Route，讓後續充值依照設定進入 Funding、UTA 或其他支援的帳戶。
+
+## 九、BYOFFICIAL 的 33% 優惠和 MNT 手續費抵扣怎麼用？
+使用 BYOFFICIAL 邀請連結註冊，連結自帶 33% 手續費折扣；配合 MNT 手續費抵扣後，現貨最高可享 50% 手續費折扣，合約最高可享 40% 手續費折扣。
+
+MNT 是 Mantle 生態的原生代幣。Bybit 目前支援符合條件的用戶使用 MNT 支付部分交易手續費：
+- 現貨與現貨槓桿：MNT 手續費折扣為 25%；
+- 符合條件的 Futures：MNT 手續費折扣為 10%。
+
+需要注意：
+- 只有 UTA 中的 MNT 才能用於支付對應交易手續費；
+- Spot 和 Futures 的 MNT 抵扣開關需要分別開啟；
+- 不是所有帳戶類型、訂單類型和產品都支援 MNT 抵扣；
+- 實際費用以帳戶 My Fee Rate 與交易紀錄為準。
+
+💡 BYOFFICIAL 與 MNT 是兩個不同的優惠機制
+BYOFFICIAL 是註冊時建立的邀請關係；MNT 則是交易以後用於支付符合條件手續費的機制。
+
+## 十、Bybit 新帳戶註冊後應該先設定哪些安全功能？
+- Google Authenticator：登入、提幣和安全操作驗證；
+- Email 驗證：確保註冊 Email 能長期使用；
+- 手機驗證：帳戶支援時完善；
+- Passkey：裝置生物辨識或密鑰登入；
+- 防釣魚碼：辨識官方郵件；
+- 提幣地址管理：核對地址與 Network；
+- 裝置管理：檢查登入裝置。
+
+同時不要：
+- 提供登入密碼；
+- 提供驗證碼給陌生客服；
+- 允許陌生人遠端控制；
+- 從陌生網站下載 Bybit App 或 APK；
+- 提供錢包私鑰或助記詞。
+
+## 十一、FAQ
+**Bybit 邀請碼？** BYOFFICIAL
+**連結？** https://partner.bybit.com/b/BYOFFICIAL
+**有什麼優惠？** 連結自帶 33%；配合 MNT 現貨最高 50%、合約最高 40%
+**還要手動輸入嗎？** 若連結已帶入通常不用，但註冊前再確認
+**註冊後能補填嗎？** 不能自行新增/修改/刪除
+**可用手機註冊？** 可以，也支援 Google/Apple/Telegram
+**KYC 有幾級？** Standard / Advanced / Pro
+**Standard 後可交易？** 符合條件即可充值與交易
+**首次入金一定要 USDT？** 不一定
+**充值最重要？** Network 完全一致
+**到帳沒餘額？** 檢查是否在 Funding Account
+**轉 UTA 要鏈上費用？** 不用，是內部劃轉
+
+## ✅ 2026 年 10 月 Bybit 新用戶 Checklist
+- 邀請碼 BYOFFICIAL
+- 連結 https://partner.bybit.com/b/BYOFFICIAL
+- 開戶前確認邀請碼
+- 選真實居住地區
+- Email 或手機註冊
+- 驗證碼＋密碼
+- Standard KYC
+- 證件一致、清晰
+- 人臉辨識
+- 鏈上充值選對 Network
+- Memo/Tag 正確
+- 小額測試
+- 檢查 Funding Account
+- 劃轉 UTA
+- Google Authenticator / Passkey
+- BYOFFICIAL 33%＋MNT 抵扣
+
+流程：BYOFFICIAL 連結 → 居住地區 → Email/手機註冊 → 確認邀請碼 → 驗證碼密碼 → Standard KYC → 安全設定 → 入金 → Funding → UTA → 交易。
